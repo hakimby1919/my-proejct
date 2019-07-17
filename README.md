@@ -1,1 +1,1 @@
-# my-proejct
+# my-projct
